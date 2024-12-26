@@ -39,7 +39,7 @@
        /* Preloader */
 		
         $(window).load(function () {
-            $('.preloader').delay(800).fadeOut('slow');
+            $('.preloader').delay(600).fadeOut('slow');
         });
 		
 		
